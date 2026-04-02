@@ -9,6 +9,7 @@ From view-source doung commented document :
 After login redirected to `http://crystal-peak.picoctf.net:64376/profile/user/e93028bdc1aacdfb3687181f2031765d` and it's tell :
 `Access level: Guest (ID: 3000). Insufficient privileges to view classified data. Only top-tier users can access the flag.`
 
+# Exploit
 From enumeration the last endpoint is MD5 from user id so create file `exploit.py`
 ```
 import requests
