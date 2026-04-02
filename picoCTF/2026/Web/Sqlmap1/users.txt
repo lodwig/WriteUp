@@ -1,0 +1,6 @@
+admin
+ctf-player
+ghost
+malicious
+noaccess
+suspicious
